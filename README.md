@@ -8,6 +8,8 @@
 
 ![image](https://github.com/user-attachments/assets/1db49c8c-c609-434a-b634-67d2fed4f15f)
 
+![maxresdefault](https://github.com/user-attachments/assets/9c3b393a-32a7-40b3-859d-1b3fb394366f)
+
 ## 🚀 Overview
 Dandy's World Script is a powerful and flexible script designed to enhance your gaming experience in **Dandy's World**. Whether you're looking for automation, enhanced controls, or exclusive features, this script provides the ultimate toolkit for players.
 
